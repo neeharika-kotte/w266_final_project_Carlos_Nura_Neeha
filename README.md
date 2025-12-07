@@ -38,9 +38,9 @@ Beyond its scholarly and scientific relevance, our work has practical relevance.
 - `Notebooks/`  
   - `1_*.ipynb` — Main pipeline (counterfactual generation, CNN baseline, BERT/DeBERTa training, LLM evaluation, readability metrics, proxy audit).  
   - `2_*.ipynb`–`9_*.ipynb` — Additional experiments (scraping, EDA, SBIC/Toxigen balancing attempts, sequential transfer learning, extended readability analysis).
-- `data/` (paths / loaders for external datasets; see paper for details)
-- `scripts/` (optional: training / evaluation scripts, if provided)
+- `Datasets/` (paths / loaders for external datasets; see paper for details)
 - `paper/` (final write-up, if included in the repo)
+- `presentation/` (final presentation)
 
 ---
 
